@@ -1,0 +1,92 @@
+.quadrado{
+    display: inline-block;
+    border: .5px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+}
+
+.quadrado2{
+    display: inline-block;
+    border: .5px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+}
+
+.quadrado3{
+    display: inline-block;
+    border: .5px solid black;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(75, 160, 240);
+    margin: -1.4px;
+}
+
+.quadrado4{
+    display: inline-block;
+    border: .5px solid black;
+    width: 200px;
+    height: 200px;
+    background-color:rgb(53, 185, 53);
+    margin: -1.4px;
+}
+
+.quadrado5{
+    display: inline-block;
+    border: .5px solid black;
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: -1.4px;
+}
+
+.quadrado-canto1{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+    border-bottom: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.quadrado-canto2{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+    border-top: 3px solid black;
+    border-left: 3px solid black;
+}
+
+.quadrado-canto3{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+    border-bottom: 3px solid black;
+    border-right: 3px solid black;
+}
+
+.quadrado-canto4{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    margin: -1.4px;
+    border-top: 3px solid black;
+    border-right: 3px solid black;
+}
+
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+    color: blueviolet;
+    text-align: center;
+    padding-top: 10px;
+}
